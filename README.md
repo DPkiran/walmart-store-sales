@@ -4,11 +4,13 @@
 <h2>Files</h2>
 <ul>
     <li><strong>Report.pbix:</strong> The Power BI report file.</li>
-    <li><strong>DataSource/:</strong> Folder with data source files (e.g., CSV, Excel).</li>
+       <li><strong>Data Source:</strong> Access the data file <strong>Walmart.csv</strong>.</li>
+
 </ul>
 
 <h2>Getting Started</h2>
 
+<p><strong>Explore the Power BI Dashboard <a href="https://app.powerbi.com/links/H9vb5jSfMq?ctid=71b778b1-0a13-4b09-bd42-94367e4d13a2&pbi_source=linkShare" target="_blank">here</a> for an overview of key insights and visualizations.</p>
 <h3>Screenshots of the Report</h3>
 
 <p><strong>Detailed view</strong></p>
