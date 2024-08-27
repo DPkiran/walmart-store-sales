@@ -15,14 +15,14 @@
 
 <p><strong>Detailed view</strong></p>
 <div class="images">
-    <img src="https://github.com/user-attachments/assets/4b19123a-0c1c-490a-ad5e-08ac75d45a94" alt="Dashboard Overview">
-    <img src="https://github.com/user-attachments/assets/07704bbd-9ac5-4dec-ae25-0f8eb8cfd8c3" alt="Dashboard Overview">
-    <img src="https://github.com/user-attachments/assets/363c211b-4779-4873-ac43-21ab51b786a7" alt="Dashboard Overview">
+    <img src="https://github.com/user-attachments/assets/4d1ec337-de7c-41c9-9fb7-bae5181c2657" alt="sales by holiday">
+    <img src="https://github.com/user-attachments/assets/a30974f9-4224-44ef-a76f-2c2e0fcc1c82" alt="sales by temprature">
+    <img src="https://github.com/user-attachments/assets/eb227cba-0a84-4286-affe-074dd883307a" alt="sales by fuel price and unemployment rate">
 </div>
 <br>
 <p><strong>Overview of the main dashboard</strong></p>
 <div class="images">
-    <img src="https://github.com/user-attachments/assets/04a53c8b-e24d-4d45-96ea-ace3c933fedb" alt="Detailed View">
+    <img src="https://github.com/user-attachments/assets/d9141312-baba-4f83-aced-d3803394f56c" alt="Detailed View">
 </div>
 
 <h3>Steps</h3>
